@@ -3,45 +3,77 @@
 VAULTURE is a Flutter-based application that allows users to quickly and efficiently calculate the number of weeks needed to reach the target amount. Users simply input the target amount, weekly saving, and starting balance. This application can be accessed anytime and anywhere based on the user’s demand.
 
 Input
+
 •	TextField (Target Amount) – User needs to input the number into the text field.
+
 •	TextField (Saving Amount / Week) – User needs to input the number into the text field.
+
 •	TextField (Starting Balance) – User needs to select the type based on their demands.
 
 Process
+
 •	Weeks Needed – (Target Amount / Starting Balance) / Saving Amount (Week)  
+
 •	Days Needed – Weeks Needed * 7
 
 Output
+
 •	Weeks Needed (Goal)
+
 •	Days Needed
  
 Widget List Used
+
 •	MaterialApp
+
 •	ThemeData
+
 •	ColorScheme
+
 •	Scaffold
+
 •	Container
+
 •	Padding
+
 •	Column
+
 •	SizedBox
+
 •	Spacer
+
 •	BoxDecoration
+
 •	LinearGradient
+
 •	Image.asset
+
 •	Text
+
 •	LinearProgressIndicator
+
 •	SingleChildScrollView
+
 •	Center
+
 •	Row
+
 •	Visibility
+
 •	TextField
+
 •	ElevatedButton
+
 •	ButtonStyle
+
 •	WidgetStatePropertyAll
+
 •	AppBar
+
 •	Icon
 
 Basic Validation Approach
+
 •	Check for double datatype. If the user inputs a value that is not a valid number (double datatype), a warning will display by changing the text color to red and showing the warning in warning area. 
 (e.g. Target Amount must be in numeric form! (1,2,3..))
 
