@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![image alt](https://github.com/WangWangGiao/my-project-assets/blob/main/Vaulture_SplashScreen.png)
+<img src="https://github.com/WangWangGiao/my-project-assets/blob/main/Vaulture_SplashScreen.png?raw=true" alt="Vaulture_SplashScreen" width="400"/>
