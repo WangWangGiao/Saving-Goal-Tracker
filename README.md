@@ -21,7 +21,7 @@ Output
 •	Weeks Needed (Goal)
 
 •	Days Needed
- 
+
 Widget List Used
 
 •	MaterialApp
